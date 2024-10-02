@@ -4,4 +4,5 @@ pandas
 mplsoccer
 matplotlib
 seaborn
-pil
+pillow
+time
